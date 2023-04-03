@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Igli, QA Automation Engineer. I specialize in JavaScript based testing frameworks for UI, Database and Rest APIs. I use Selenium WebDriverIO along with different tools and libraries to build efficient testing solutions.
+
 <!--
 **izyryku/izyryku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
